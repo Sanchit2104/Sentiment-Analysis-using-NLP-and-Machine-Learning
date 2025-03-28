@@ -88,9 +88,9 @@ from sklearn.pipeline import make_pipeline
 from sklearn.metrics import roc_auc_score, classification_report 
 from sklearn.metrics import accuracy_score 
 
-# Deployed the Model using Streamlit Library and Created a Web Application for the Model for predicting the Sentiments
+## Deployed the Model using Streamlit Library and Created a Web Application for the Model for predicting the Sentiments
 
-# Applications:
+## Applications:
 Social media monitoring (Twitter sentiment analysis).
 
 Customer feedback analysis for businesses.

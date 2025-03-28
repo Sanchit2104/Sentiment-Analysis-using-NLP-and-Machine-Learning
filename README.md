@@ -52,7 +52,8 @@ Vectorization generally provides better results compared to Count Vectorization.
 5. Source Code:  
 The provided source code encompasses the libraries required for data loading, 
 preprocessing, feature transformation, model training, and evaluation. Key libraries are  
-# Importing essential libraries and functions import pandas as pd 
+# Importing essential libraries and functions 
+import pandas as pd 
 import numpy as np 
 import nltk 
 import re 
@@ -65,7 +66,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords 
 from nltk.tokenize import word_tokenize 
   
-#Visualisation Library 
+# Visualisation Library 
 import matplotlib.pyplot as plt 
 import seaborn as sns 
 ! pip install wordcloud 

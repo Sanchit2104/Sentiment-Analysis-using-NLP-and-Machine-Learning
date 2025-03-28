@@ -53,8 +53,9 @@ Vectorization generally provides better results compared to Count Vectorization.
 The provided source code encompasses the libraries required for data loading, 
 preprocessing, feature transformation, model training, and evaluation. Key libraries are  
 # Importing essential libraries and functions 
+```python
 import pandas as pd 
-\n import numpy as np 
+import numpy as np 
 import nltk 
 import re 
 import string 
